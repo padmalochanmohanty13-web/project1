@@ -1,4 +1,3 @@
 # New project
 
- this project was created in local system
- created by Padmalochan
+ TIC_TAC_TOE
